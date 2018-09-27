@@ -35,7 +35,7 @@ Press <kbd>F1</kbd> and run the command named `CSSComb`.
   * Type: `Object` or `String`
   * Defaut: `{}`
 
-Config's name. Should be one of the following: `csscomb`, `zen`, `yandex` or an object containing custom configuration or path to config. You can use http://csscomb.com/config to easily generate a config file.
+Config's name. Should be one of the following: `csscomb`, `zen`, `yandex` or an object containing custom configuration or path to config. You can use one of the [predefined configs](https://github.com/csscomb/csscomb.js/tree/dev/config) or generate a config file at http://csscomb.com/config.
 
 > **Warning!**
 >
